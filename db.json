@@ -1,6 +1,6 @@
 {
   "profiles": [
-    { "username": "TheDiamondMurder", "xp:" 20, "rank" : "Test Rank 1" }
+    { "username": "TheDiamondMurder", "xp" : 20, "rank" : "Test Rank 1" }
   ]
   
 }
