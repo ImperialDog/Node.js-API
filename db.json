@@ -1,6 +1,10 @@
 {
   "profiles": [
     { "username": "TheDiamondMurder", "xp" : 20, "rank" : "Test Rank 1" }
+    { "username": "RealCraftedPPAP", "xp" : 1, "rank" : "Test Rank 2" }
+    { "username": "CraftedPPAP", "xp" : 43, "rank" : "Supporter" }
+    { "username": "ClanHouseBot1", "xp" : 40, "rank" : "Bot" }
+    
   ]
   
 }
